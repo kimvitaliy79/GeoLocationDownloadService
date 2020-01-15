@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\bin\Debug\DBApplication.dll.config
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\bin\Debug\DBApplication.dll
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\bin\Debug\DBApplication.pdb
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\obj\Debug\DBApplication.dll
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\obj\Debug\DBApplication.pdb
+C:\Users\User\source\repos\GeoLocationApp\DBApplication\obj\Debug\DBApplication.csprojAssemblyReference.cache
